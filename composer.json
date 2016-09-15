@@ -1,0 +1,7 @@
+{
+    "name": "primgate/codeigniter-library",
+    "description": "A composer package which installs only the CodeIgniter library.",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
